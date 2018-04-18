@@ -34,6 +34,7 @@ public class AppContext extends Application {
         }
         LeakCanary.install(this);
         int tst=1;
+        int tst333;
     }
 
     public static AppContext getInstance() {
